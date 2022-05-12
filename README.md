@@ -8,6 +8,7 @@ Source code and Supplemental data related to the rMATS-turbo manuscript
   - Input files for generating Figure 4 is located in folder `CCLE`
 ## Requirements
   - Jupyter Notebook
+  - [rmats2sashimiplot](https://github.com/Xinglab/rmats2sashimiplot)
   - Python related dependencies:
     - rpy2
   - R packages
