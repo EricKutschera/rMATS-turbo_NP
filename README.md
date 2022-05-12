@@ -6,3 +6,13 @@ Source code and Supplemental data related to the rMATS-turbo manuscript
 ## Figure 4
   - Source code for generating Figure 4 is demonstrated in `plot_Fig_CCLE.ipynb`
   - Input files for generating Figure 4 is located in folder `CCLE`
+## Requirements
+  - Jupyter Notebook
+  - Python related dependencies:
+    - rpy2
+  - R packages
+    - zeallot
+    - [ComplexHeatmap](https://www.bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)
+    - circlize
+    - ggplot2
+    - ggrepel
